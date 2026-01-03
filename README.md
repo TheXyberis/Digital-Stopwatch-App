@@ -1,3 +1,19 @@
+# Digital Stopwatch
+
+A simple React + Vite project that implements a precise digital stopwatch.
+
+## Live Demo
+Check it out here: [Digital Stopwatch on Vercel](https://digital-stopwatch-blue.vercel.app/)
+
+## Features
+- Start, stop, reset
+- Shows hours, minutes, seconds, hundredths of a second
+- Resume from pause
+
+## Tech Stack
+- React
+- Vite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
